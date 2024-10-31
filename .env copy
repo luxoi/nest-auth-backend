@@ -1,0 +1,8 @@
+
+
+
+MONGO_URI=mongodb://mongo:y
+
+MONGO_DB_NAME=auth-db
+
+JWT_SEED=Esta_es_la_key_secret
